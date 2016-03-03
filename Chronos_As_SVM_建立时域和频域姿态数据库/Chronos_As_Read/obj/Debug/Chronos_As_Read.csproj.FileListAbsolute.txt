@@ -1,0 +1,10 @@
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\bin\Debug\Chronos_As_Read.exe
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\bin\Debug\Chronos_As_Read.pdb
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\bin\Debug\eZ430_Chronos_Net.dll
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\obj\Debug\Chronos_As_Read.Form1.resources
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\obj\Debug\Chronos_As_Read.Properties.Resources.resources
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\obj\Debug\Chronos_As_Read.csproj.GenerateResource.Cache
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\obj\Debug\Chronos_As_Read.exe
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\obj\Debug\Chronos_As_Read.pdb

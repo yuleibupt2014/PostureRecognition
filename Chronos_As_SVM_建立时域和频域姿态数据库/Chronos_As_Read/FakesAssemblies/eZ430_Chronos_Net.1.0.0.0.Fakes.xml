@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>eZ430_Chronos_Net.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:eZ430ChronosNet.Fakes.ShimChronos">
+            <summary>eZ430ChronosNet.Chronos 的填充码类型</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimChronos.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimChronos.#ctor(eZ430ChronosNet.Chronos)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimChronos.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimChronos.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.CloseComPort">
+            <summary>设置 Chronos.CloseComPort() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.Constructor">
+            <summary>设置 Chronos.Chronos() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.DataReceivedHandlerObjectSerialDataReceivedEventArgs">
+            <summary>设置 Chronos.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.GetAPStatusAPStatusOut">
+            <summary>设置 Chronos.GetAPStatus(APStatus&amp; status) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.GetComPortName">
+            <summary>设置 Chronos.GetComPortName() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.GetDataUInt32Out">
+            <summary>设置 Chronos.GetData(UInt32&amp; data) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.GetIDUInt32Out">
+            <summary>设置 Chronos.GetID(UInt32&amp; ID) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.GetSyncBufferStatusSyncStatusOut">
+            <summary>设置 Chronos.GetSyncBufferStatus(SyncStatus&amp; status) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.OpenComPortString">
+            <summary>设置 Chronos.OpenComPort(String portName) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.PortOpenGet">
+            <summary>设置 Chronos.get_PortOpen() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.ReadSyncBufferByteArrayOut">
+            <summary>设置 Chronos.ReadSyncBuffer(Byte[]&amp; data) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.ResetAP">
+            <summary>设置 Chronos.ResetAP() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.SendSyncCommandByteArray">
+            <summary>设置 Chronos.SendSyncCommand(Byte[] data) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.StartSimpliciTI">
+            <summary>设置 Chronos.StartSimpliciTI() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.StartSyncMode">
+            <summary>设置 Chronos.StartSyncMode() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.StopSimpiliTI">
+            <summary>设置 Chronos.StopSimpiliTI() 的 填充码</summary>
+        </member>
+        <member name="T:eZ430ChronosNet.Fakes.ShimChronos.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.CloseComPort">
+            <summary>设置 Chronos.CloseComPort() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.DataReceivedHandlerObjectSerialDataReceivedEventArgs">
+            <summary>设置 Chronos.DataReceivedHandler(Object sender, SerialDataReceivedEventArgs e) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.GetAPStatusAPStatusOut">
+            <summary>设置 Chronos.GetAPStatus(APStatus&amp; status) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.GetComPortName">
+            <summary>设置 Chronos.GetComPortName() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.GetDataUInt32Out">
+            <summary>设置 Chronos.GetData(UInt32&amp; data) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.GetIDUInt32Out">
+            <summary>设置 Chronos.GetID(UInt32&amp; ID) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.GetSyncBufferStatusSyncStatusOut">
+            <summary>设置 Chronos.GetSyncBufferStatus(SyncStatus&amp; status) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.OpenComPortString">
+            <summary>设置 Chronos.OpenComPort(String portName) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.PortOpenGet">
+            <summary>设置 Chronos.get_PortOpen() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.ReadSyncBufferByteArrayOut">
+            <summary>设置 Chronos.ReadSyncBuffer(Byte[]&amp; data) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.ResetAP">
+            <summary>设置 Chronos.ResetAP() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.SendSyncCommandByteArray">
+            <summary>设置 Chronos.SendSyncCommand(Byte[] data) 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.StartSimpliciTI">
+            <summary>设置 Chronos.StartSimpliciTI() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.StartSyncMode">
+            <summary>设置 Chronos.StartSyncMode() 的 填充码</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimChronos.AllInstances.StopSimpiliTI">
+            <summary>设置 Chronos.StopSimpiliTI() 的 填充码</summary>
+        </member>
+        <member name="T:eZ430ChronosNet.Fakes.ShimConstants">
+            <summary>eZ430ChronosNet.Constants 的填充码类型</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimConstants.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimConstants.#ctor(eZ430ChronosNet.Constants)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimConstants.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.ShimConstants.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimConstants.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.ShimConstants.Constructor">
+            <summary>设置 Constants.Constants() 的 填充码</summary>
+        </member>
+        <member name="T:eZ430ChronosNet.Fakes.ShimConstants.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="T:eZ430ChronosNet.Fakes.StubChronos">
+            <summary>eZ430ChronosNet.Chronos 的存根类型</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.StubChronos.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.StubChronos.InitializeStub">
+            <summary>初始化 type StubChronos 的新实例</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.StubChronos.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.StubChronos.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.StubChronos.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:eZ430ChronosNet.Fakes.StubConstants">
+            <summary>eZ430ChronosNet.Constants 的存根类型</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.StubConstants.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:eZ430ChronosNet.Fakes.StubConstants.InitializeStub">
+            <summary>初始化 type StubConstants 的新实例</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.StubConstants.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.StubConstants.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:eZ430ChronosNet.Fakes.StubConstants.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.PortName 生成存根: 类型对 exported or assembly(eZ430_Chronos_Net.1.0.0.0.Fakes) 不可见。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.Packet 生成存根: 类型对 exported or assembly(eZ430_Chronos_Net.1.0.0.0.Fakes) 不可见。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.APStatus 生成存根: 类型是一个值类型。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.APCommand 生成存根: 类型是一个值类型。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.SyncStatus 生成存根: 类型是一个值类型。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.PortName 生成填充码: 类型对 exported or assembly(eZ430_Chronos_Net.1.0.0.0.Fakes) 不可见。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.Packet 生成填充码: 类型对 exported or assembly(eZ430_Chronos_Net.1.0.0.0.Fakes) 不可见。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.APStatus 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.APCommand 生成填充码: 类型是一个枚举。
+C:\Users\Administrator\desktop\Chronos_As_Read\Chronos_As_Read\Fakes\eZ430_Chronos_Net01.fakes : warning : 无法为 eZ430ChronosNet.SyncStatus 生成填充码: 类型是一个枚举。
